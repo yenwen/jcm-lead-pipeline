@@ -1,0 +1,8 @@
+.venv/
+.pytest_cache/
+.vscode/
+.claude/
+.env
+*.db
+__pycache__/
+*.pyc
