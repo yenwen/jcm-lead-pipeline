@@ -3,6 +3,14 @@
 .vscode/
 .claude/
 .env
+.env.*
 *.db
 __pycache__/
+**/__pycache__/
 *.pyc
+*.pyo
+*.pyd
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
